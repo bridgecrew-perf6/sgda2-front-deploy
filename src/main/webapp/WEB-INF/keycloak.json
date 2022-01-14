@@ -1,0 +1,7 @@
+{
+  "realm": "FirstData",
+  "auth-server-url": "${keycloak.url}",
+  "ssl-required": "external",
+  "resource": "tms-ct",
+  "public-client": true
+}
